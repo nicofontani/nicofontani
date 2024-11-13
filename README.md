@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! I'm a tech enthusiast, programmer, and content creator with a passion for digital creation and problem-solving. Here's a brief overview of my background, projects, and interests.
 
 ## 🎓 Education
-- **2013 - Present:** Studying **Computer Science and Robotics** at ITIS Mario Delpozzo in Cuneo, Italy.
+- **2020 - Present:** Studying **Computer Science and Robotics** at ITIS Mario Delpozzo in Cuneo, Italy.
 
 ## 🚀 Professional Experience
 - **Content Creator & Web Developer:** I've been creating digital content, programming, and designing websites since 2013. I love combining technical challenges with creative projects.
