@@ -12,32 +12,30 @@ Welcome to my GitHub! I'm a passionate **Computer Science** student, **programme
 
 ### Notable Projects:
 - **BiblioNAO** (2024): A robot developed for the **NAO Challenge**, helping users in libraries with tasks like information retrieval and interaction.
-  - [BiblioNAO Project](https://www.biblionao.it/)
+  - [BiblioNAO Project](https://www.naochallenge.it/)
 - **FIRST Tech Challenge** (2025): Led the construction team to design a robot for the competition.
-  - [FIRST Tech Challenge](https://www.rstinspires.org/robotics/ftc)
+  - [FIRST Tech Challenge](https://www.firstinspires.org/robotics/ftc)
 
 ## 🧠 Skills
 - **Programming Languages:** Python, C, Java, JavaScript, C++
-- **Web Development:** HTML, CSS, WordPress, PHP, MySQL
+- **Web Development:** HTML, CSS, WordPress
 - **AI & Robotics:** Arduino, Raspberry Pi, AI development for robots
 - **Video Production:** Editing, storytelling, YouTube SEO, and community management
 
 ## 🌱 Ongoing Learning:
-- **Web Development:** Improving proficiency with **React**, **Node.js**, and advanced **JavaScript** techniques.
+- **Web Development:** Improving proficiency with **Pose.js**, **Node.js**, and advanced **JavaScript** techniques.
 - **AI & Robotics:** Exploring **machine learning** applications and enhancing programming for **autonomous robots**.
 - **Content Creation:** Further developing video editing skills and enhancing digital storytelling.
 
 ## 📚 Blog & Publications:
 - **NicoFontani Tech Blog:** A blog covering technology, hardware, programming, and reviews.
-  - [NicoFontani Tech Blog](https://www.youtube.com/@Nico_Fontani)
+  - [NicoFontani Tech Blog](https://www.nicofontani.it/articoli)
 - **YouTube Channel:** Producing videos on **technology**, **programming**, and **gaming**.
   - [NicoFontani YouTube](https://www.youtube.com/@Nico_Fontani)
 
 ## 💼 Work Experience:
 - **Website Designer & Developer for B&B A Ca D Tu Ma**
   - Developed a website for a family-owned bed-and-breakfast business.
-- **Website Developer for SorintLAB:** Designed and maintained various company websites.
-  - [SorintLAB](https://www.sorint.com/)
 - **Freelance Web Design Projects:** Designed websites for **Coi Bambini** and other clients.
   - [Coi Bambini](https://www.coibambini.com/)
 
