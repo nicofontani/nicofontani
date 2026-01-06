@@ -6,6 +6,7 @@ Welcome to my GitHub! I'm a passionate **Computer Science** student, **programme
 - **2020 - Present:** Studying **Computer Science and Robotics** at **ITIS Mario Delpozzo**, Cuneo, Italy.
 
 ## 🚀 Professional Experience
+- **Web Marketing & IT Support:** Advanced marketing for travel agencies and private sites, technical assistance for email, domains and SMTP, at [Castellino Software](https://www.castellino.com/)
 - **Content Creation & Video Production:** Creating and editing online videos, including **YouTube** content and short films.
 - **Web Design & Development:** Building functional and engaging websites using **HTML**, **CSS**, **JavaScript**, and **WordPress**.
 - **AI & Robotics:** Led the **BiblioNAO** project for the **NAO Challenge**, developing a robot to assist users in libraries with autonomous navigation and AI-powered interactions.
@@ -34,6 +35,8 @@ Welcome to my GitHub! I'm a passionate **Computer Science** student, **programme
   - [NicoFontani YouTube](https://www.youtube.com/@Nico_Fontani)
 
 ## 💼 Work Experience:
+- **Web Marketing for Castellino Software** 
+  - Advanced marketing for travel agencies and private sites, technical assistance for email, domains and SMTP, at [Castellino Software](https://www.castellino.com/)
 - **Website Designer & Developer for B&B A Ca D Tu Ma**
   - Developed a website for a family-owned bed-and-breakfast business.
 - **Freelance Web Design Projects:** Designed websites for **Coi Bambini** and other clients.
