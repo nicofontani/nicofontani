@@ -37,10 +37,11 @@ Welcome to my GitHub! I'm a passionate **Computer Science** student, **programme
 ## 💼 Work Experience:
 - **Web Marketing for Castellino Software** 
   - Advanced marketing for travel agencies and private sites, technical assistance for email, domains and SMTP, at [Castellino Software](https://www.castellino.com/)
-- **Website Designer & Developer for B&B A Ca D Tu Ma**
+- **Website Designer & Developer for B&B A Ca D Tu Ma & Audisio Taxi**
   - Developed a website for a family-owned bed-and-breakfast business.
+    [Audisio Taxi](https://www.audisiotaxi.it/)
 - **Freelance Web Design Projects:** Designed websites for **Coi Bambini** and other clients.
-  - [Coi Bambini](https://www.coibambini.com/)
+  - [Coi Bambini]([https://www.coibambini.com/](https://sites.google.com/view/coibambini/home?authuser=1))
 
 ## 🏆 Competitions:
 - **NAO Challenge 2024:** Led the development of **BiblioNAO**, a robot assisting users in libraries with AI and autonomous navigation.
